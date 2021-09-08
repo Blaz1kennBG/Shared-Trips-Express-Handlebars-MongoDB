@@ -8,6 +8,6 @@ Functionality:
   6. Book a trip. 
 
 To start up the project, 
-`$ git clone https://github.com/Blaz1kennBG/Shared-Trips-Express-Handlebars-MongoDB`
+`$ git clone https://github.com/Blaz1kennBG/Shared-Trips-Express-Handlebars-MongoDB`.
 `npm install`, to install the required dependencies
 start using `nodemon`
